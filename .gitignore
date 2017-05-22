@@ -1,0 +1,7 @@
+.idea
+*~
+DS_S*
+/composer.phar
+/composer.lock
+/web/bower_components/
+/node_modules
